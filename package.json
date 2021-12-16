@@ -4,12 +4,15 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "node --trace-warnings benchmark.js"
+    "bench": "node --trace-warnings benchmark.js",
+    "mem": "node --trace-warnings memory.js",
+    "load": "./autocannon.sh"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.0",
+    "express": "^4.17.1",
     "mongodb": "^4.2.2",
     "msgpackr": "^1.5.1",
     "redis": "^4.0.1"

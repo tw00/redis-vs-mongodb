@@ -23,12 +23,12 @@ export default ({ type }) => {
     return {
       ...base,
       name: `${base.name}:stringify`,
+      async insert(id, jsonData) {
+        await client.set(id, JSON.stringify(jsonData));
+      },
       async get(id) {
         const value = await client.get(id);
         return JSON.parse(value);
-      },
-      async insert(id, jsonData) {
-        await client.set(id, JSON.stringify(jsonData));
       },
     };
   }
@@ -37,13 +37,13 @@ export default ({ type }) => {
     return {
       ...base,
       name: `${base.name}:msgpackr`,
-      async get(id) {
-        const value = await client.getBuffer(id);
-        return unpack(value);
-      },
       async insert(id, jsonData) {
         const buf = pack(jsonData);
         return client.set(id, buf);
+      },
+      async get(id) {
+        const value = await client.getBuffer(id);
+        return unpack(value);
       },
     };
   }
@@ -52,12 +52,12 @@ export default ({ type }) => {
     return {
       ...base,
       name: `${base.name}:redis-json`,
+      async insert(id, jsonData) {
+        return client.json.set(id, ".", jsonData);
+      },
       async get(id) {
         const value = await client.json.get(id);
         return JSON.parse(value);
-      },
-      async insert(id, jsonData) {
-        return client.json.set(id, ".", jsonData);
       },
     };
   }

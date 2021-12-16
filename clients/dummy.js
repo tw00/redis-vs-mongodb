@@ -18,7 +18,7 @@ export default () => {
     },
     async get(id) {
       // console.log("- get", id);
-      inMemory.get(id);
+      return inMemory.get(id);
     },
   };
 };

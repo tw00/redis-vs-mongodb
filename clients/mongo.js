@@ -26,6 +26,7 @@ export default () => {
     },
     async get(id) {
       const doc = await collection.findOne({ _id: id });
+      return doc;
     },
   };
 };
