@@ -61,6 +61,10 @@ arrayBuffers        +208.28 MB
 npm run load
 ```
 
+- concurrent connections: 10
+- pipelined requests: 10
+- duration: 60 sec
+
 ### Result
 
 ```
