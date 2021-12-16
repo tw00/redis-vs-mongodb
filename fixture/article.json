@@ -1,0 +1,672 @@
+{
+  "status": "ok",
+  "op": "createOrUpdate",
+  "originSystem": "wcm",
+  "mongoDbCollection": "articles",
+  "mongoDbId": "16594208",
+  "environment": "dev",
+  "mtime": 1636083504,
+  "messages": [],
+  "resultCount": 1,
+  "result": {
+    "allowedSites": {
+      "33": "33-21497",
+      "35": "35-21497",
+      "36": "36-21497"
+    },
+    "siteId": 33,
+    "ownerSiteUrl": "https://cmf.dev.houstonchronicle.com/",
+    "channelId": 21497,
+    "mtime": 1636083504,
+    "guid": "article_16594208",
+    "id": 16594208,
+    "type": "article",
+    "originalSourceSite": "HCNEWSROOM",
+    "originalSourceId": "B888240492Z",
+    "sourceSite": "premiumchron",
+    "title": "Sock’s hot arm propels Pearland past Dawson, 25-23",
+    "subtitle": "",
+    "alternateTitle": "Sock’s hot arm propels Pearland past Dawson, 25-23",
+    "printHeadLine": "",
+    "socialHeadline": "",
+    "pageTitle": "",
+    "metaDescription": "",
+    "publicationDate": "2021-11-04 05:00:00",
+    "publicationDateTimestamp": 1636002000,
+    "lastModifiedDate": "2021-11-05 03:38:24",
+    "lastModifiedDateTimestamp": 1636083504,
+    "publishedOnline": "2021-11-05 03:38:22",
+    "publishedOnlineTimestamp": 1636083502,
+    "lastPublishedDisplayed": "2021-11-05 03:38:22",
+    "lastPublishedDisplayedTimestamp": 1636083502,
+    "displayedDate": "2021-11-05 03:38:22",
+    "displayedDateTimestamp": 1636083502,
+    "expirationDate": "",
+    "premiumEndDate": "2027-12-31 06:00:00",
+    "premiumStatus": "isPremium",
+    "paymeterArticleMeter": "",
+    "isOpinion": false,
+    "isSensitive": false,
+    "noIndex": false,
+    "noFollow": false,
+    "robots": "",
+    "noGoogleNews": false,
+    "adTags": [],
+    "keySubjects": [
+      "Pearland Sports"
+    ],
+    "keyCategoryTags": [],
+    "keyPersons": [],
+    "keyOrganizations": [],
+    "keyConcepts": [],
+    "keyCategories": [],
+    "keyPlaces": [],
+    "keyNlpPerson": [
+      "Dawson",
+      "Colin Johnson",
+      "Jake Sock",
+      "Aiden Glasper",
+      "Carter Brown",
+      "Alief Taylor",
+      "Alvin",
+      "Christian Pitts",
+      "Ryan Guillo",
+      "Izeal Jones",
+      "Dickinson"
+    ],
+    "keyNlpLocation": [
+      "Pearland",
+      "Pearland Stadium",
+      "Clear Springs"
+    ],
+    "keyNlpOrganization": [
+      "Eagles",
+      "Oilers",
+      "Pearland Sports",
+      "Division II",
+      "Oiler"
+    ],
+    "keyNlpEvent": [],
+    "keyNlpWorkOfArt": [],
+    "keyNlpConsumerGood": [],
+    "keyNlpOther": [
+      "Sock",
+      "Division I",
+      "Class 6A Division I",
+      "Clear Falls",
+      "tdunnam@hcnonline.com"
+    ],
+    "keyNlpUnknown": [],
+    "keyNlpCategories": [
+      "/Sports/Team Sports/American Football"
+    ],
+    "locations": [],
+    "url": "/neighborhood/pearland/sports/article/Sock-s-hot-arm-propels-Pearland-past-Dawson-16594208.php",
+    "premiumShareToken": "73f070d4e2",
+    "noAmp": false,
+    "openGraphImageUrl": "https://dev.s.hdnux.com/photos/01/22/53/62/21675141/6/rawImage.jpg",
+    "openGraphType": "article",
+    "specialProjectKey": "",
+    "wordCount": 354,
+    "paragraphCount": 16,
+    "videoBidding": true,
+    "hasSlideshow": true,
+    "hasSlideshowListView": false,
+    "hasVideo": false,
+    "hasInteractive": false,
+    "commentsType": "",
+    "commentsOn": false,
+    "commentId": "",
+    "contributionState": "open",
+    "commentKey": "",
+    "googleStandoutLinks": [],
+    "customHeaderCssUrl": "",
+    "customHeaderJsUrl": "",
+    "customFooterJsUrl": "",
+    "isAffiliatedContent": false,
+    "affiliateArticleTopper": "",
+    "isSponsoredContent": false,
+    "sponsoredArticleTopper": "",
+    "isOutsideSource": false,
+    "authorName": "By Ted Dunnam",
+    "authorTitle": "Staff writer",
+    "supressAuthorPic": false,
+    "authors": [
+      {
+        "mtime": 0,
+        "guid": "author_751",
+        "id": 751,
+        "slug": "ted-dunnam",
+        "name": "Ted Dunnam",
+        "firstName": "Ted",
+        "lastName": "Dunnam",
+        "title": "",
+        "credit": "",
+        "url": "https://cmf.dev.houstonchronicle.com/author/ted-dunnam/",
+        "biography": "<p class=\"MsoPlainText\">Ted Dunnam is sports editor of the Bay Area Citizen, Friendswood Journal and Pearland Journal. When not reading spy novels, he enjoys grilling steak and salmon for his stunningly beautiful wife.\n</p>\n\n<p class=\"MsoPlainText\">&nbsp;\n</p>",
+        "hasContact": true,
+        "email": "tdunnam@hconline.com",
+        "facebook": "",
+        "twitter": "TedDunnam",
+        "linkedIn": "",
+        "image": {
+          "1x1_1x": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          },
+          "1x1_2x": {
+            "url": "",
+            "width": 0,
+            "height": 0
+          }
+        }
+      }
+    ],
+    "factbox": {
+      "header": "",
+      "html1": "",
+      "html2": "",
+      "html3": ""
+    },
+    "excerpt": "Avoiding a two-game skid heading into the postseason, Pearland rallied behind the hot...",
+    "abstract": "<p>Avoiding a two-game skid heading into the postseason, Pearland rallied behind the hot hand of quarterback Jake Sock to stymie Dawson in a District 23-6A showdown Thursday night at Pearland Stadium.</p>\n<p>Sock threw four touchdown passes, including 88- and 63-yard bombs to Aiden Glasper, to fuel the Oilers' 25-23 win in the regular season finale for two playoff-bound teams.</p>\n<p>The outcome resulted in both teams finishing the regular season with 7-3 records.</p>\n<p>Pearland ended district play with a 6-1 record while Dawson settled for a 5-2 mark.</p>\n<p>The Oilers will enter the Class 6A Division I playoffs next week as a No. 1 seed in Division I and will play Clear Springs in bi-district.</p>\n<p>If Alief Taylor beats Alvin Friday night, Dawson will be a No. 2 seed in Division II and will play Clear Falls in bi-district.</p>\n<p>If Alvin wins the game, Dawson will be the No. 2 seed in Division I and will play Dickinson in bi-district.</p>\n<p>In Thursday's rivalry matchup, Carter Brown's 33-yard field goal with 6:23 left in the opening quarter gave Dawson a 3-0 lead.</p>\n<p>The Eagles opened a 10-0 edge with 3:29 showing in the opening period when quarterback Colin Johnson connected with Ryan Guillo on a 25-yard touchdown pass.</p>\n<p>After Pearland trimmed the lead to 10-6 on Sock's 63-yard touchdown pass to Glasper, Brown drilled a 48-yard field goal for Dawson with 2:35 left in the half for a 13-6 score.</p>\n<p>The Oilers closed to 13-12 with 25 seconds left in the half on a Sock touchdown pass to Christian Pitts, but the two-point conversion attempt failed, leaving Dawson with the slim lead at intermission.</p>\n<p>Pearland finally took the lead in the third quarter when Sock threw his third TD pass, this one a...</p>",
+    "body": [
+      {
+        "type": "gallery",
+        "manual": false,
+        "params": {
+          "mtime": 0,
+          "guid": "article_16594208_gallery",
+          "layout": "default",
+          "title": "",
+          "slideCount": 6,
+          "slides": [
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675141/6",
+                "mtime": 1636083500,
+                "guid": "photo_21675141",
+                "id": 21675141,
+                "layout": "slide",
+                "rank": 1,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Dawson’s Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.</p>",
+                  "html2": "Dawson's Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.",
+                  "html3": "<p>Dawson's Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.\n</p>",
+                  "plain": "Dawson’s Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig."
+                },
+                "publicationDate": "2021-11-05 03:38:19",
+                "publicationDateTimestamp": 1636083499,
+                "lastModifiedDate": "2021-11-05 03:38:20",
+                "lastModifiedDateTimestamp": 1636083500,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            },
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675142/6",
+                "mtime": 1636083500,
+                "guid": "photo_21675142",
+                "id": 21675142,
+                "layout": "slide",
+                "rank": 2,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Pearland’s Kennedy Lewis (9) fights pass the tackle tackle of Dawson’s Jaiden Walker (4) Thursday, Nov. 4, 2021 at Pearland Stadium.</p>",
+                  "html2": "Pearland's Kennedy Lewis (9) fights pass the tackle tackle of Dawson's Jaiden Walker (4) Thursday, Nov. 4, 2021 at Pearland Stadium.",
+                  "html3": "<p>Pearland's Kennedy Lewis (9) fights pass the tackle tackle of Dawson's Jaiden Walker (4) Thursday, Nov. 4, 2021 at Pearland Stadium.\n</p>",
+                  "plain": "Pearland’s Kennedy Lewis (9) fights pass the tackle tackle of Dawson’s Jaiden Walker (4) Thursday, Nov. 4, 2021 at Pearland Stadium."
+                },
+                "publicationDate": "2021-11-05 03:38:20",
+                "publicationDateTimestamp": 1636083500,
+                "lastModifiedDate": "2021-11-05 03:38:20",
+                "lastModifiedDateTimestamp": 1636083500,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            },
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675143/6",
+                "mtime": 1636083501,
+                "guid": "photo_21675143",
+                "id": 21675143,
+                "layout": "slide",
+                "rank": 3,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Pearland’s Jake Sock (12) scrambles for yardage Thursday, Nov. 4, 2021 at Pearland Stadium.</p>",
+                  "html2": "Pearland's Jake Sock (12) scrambles for yardage Thursday, Nov. 4, 2021 at Pearland Stadium.",
+                  "html3": "<p>Pearland's Jake Sock (12) scrambles for yardage Thursday, Nov. 4, 2021 at Pearland Stadium.\n</p>",
+                  "plain": "Pearland’s Jake Sock (12) scrambles for yardage Thursday, Nov. 4, 2021 at Pearland Stadium."
+                },
+                "publicationDate": "2021-11-05 03:38:20",
+                "publicationDateTimestamp": 1636083500,
+                "lastModifiedDate": "2021-11-05 03:38:21",
+                "lastModifiedDateTimestamp": 1636083501,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            },
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675144/6",
+                "mtime": 1636083501,
+                "guid": "photo_21675144",
+                "id": 21675144,
+                "layout": "slide",
+                "rank": 4,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Pearland’s Aiden Glasper (13) pulls down a pass over Dawson’s Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.</p>",
+                  "html2": "Pearland's Aiden Glasper (13) pulls down a pass over Dawson's Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.",
+                  "html3": "<p>Pearland's Aiden Glasper (13) pulls down a pass over Dawson's Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.\n</p>",
+                  "plain": "Pearland’s Aiden Glasper (13) pulls down a pass over Dawson’s Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium."
+                },
+                "publicationDate": "2021-11-05 03:38:21",
+                "publicationDateTimestamp": 1636083501,
+                "lastModifiedDate": "2021-11-05 03:38:21",
+                "lastModifiedDateTimestamp": 1636083501,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            },
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675145/6",
+                "mtime": 1636083501,
+                "guid": "photo_21675145",
+                "id": 21675145,
+                "layout": "slide",
+                "rank": 5,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Pearland’s Aiden Glasper (13) pulls down a pass over Dawson’s Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.</p>",
+                  "html2": "Pearland's Aiden Glasper (13) pulls down a pass over Dawson's Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.",
+                  "html3": "<p>Pearland's Aiden Glasper (13) pulls down a pass over Dawson's Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium.\n</p>",
+                  "plain": "Pearland’s Aiden Glasper (13) pulls down a pass over Dawson’s Tylan Good (27) for a touchdown Thursday, Nov. 4, 2021 at Pearland Stadium."
+                },
+                "publicationDate": "2021-11-05 03:38:21",
+                "publicationDateTimestamp": 1636083501,
+                "lastModifiedDate": "2021-11-05 03:38:21",
+                "lastModifiedDateTimestamp": 1636083501,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            },
+            {
+              "type": "image",
+              "manual": false,
+              "params": {
+                "allowedSites": {
+                  "33": "33",
+                  "35": "35",
+                  "36": "36"
+                },
+                "dirPath": "01/22/53/62/21675146/6",
+                "mtime": 1636083502,
+                "guid": "photo_21675146",
+                "id": 21675146,
+                "layout": "slide",
+                "rank": 6,
+                "title": "",
+                "byline": "Kirk Sides / Staff photographer",
+                "workflowState": "published",
+                "isPublished": 1,
+                "caption": {
+                  "html1": "<p>Dawson’s Carter Brown (3) watches as his kick split the uprights against Pearland Thursday, Nov. 4, 2021 at Pearland Stadium.</p>",
+                  "html2": "Dawson's Carter Brown (3) watches as his kick split the uprights against Pearland Thursday, Nov. 4, 2021 at Pearland Stadium.",
+                  "html3": "<p>Dawson's Carter Brown (3) watches as his kick split the uprights against Pearland Thursday, Nov. 4, 2021 at Pearland Stadium.\n</p>",
+                  "plain": "Dawson’s Carter Brown (3) watches as his kick split the uprights against Pearland Thursday, Nov. 4, 2021 at Pearland Stadium."
+                },
+                "publicationDate": "2021-11-05 03:38:21",
+                "publicationDateTimestamp": 1636083501,
+                "lastModifiedDate": "2021-11-05 03:38:22",
+                "lastModifiedDateTimestamp": 1636083502,
+                "expirationDate": "",
+                "resaleLink": "",
+                "isCover": false,
+                "orientation": "landscape"
+              }
+            }
+          ],
+          "autoplay": 0,
+          "cover": {
+            "allowedSites": {
+              "33": "33",
+              "35": "35",
+              "36": "36"
+            },
+            "dirPath": "01/22/53/62/21675141/6",
+            "mtime": 1636083500,
+            "guid": "photo_21675141",
+            "id": 21675141,
+            "layout": "",
+            "rank": 0,
+            "title": "",
+            "byline": "Kirk Sides / Staff photographer",
+            "workflowState": "",
+            "isPublished": 0,
+            "caption": {
+              "html1": "<p>Dawson’s Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.</p>",
+              "html2": "Dawson's Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.",
+              "html3": "<p>Dawson's Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig.\n</p>",
+              "plain": "Dawson’s Ashton Stroman (1) pulls down a pass against Pearland Thursday, Nov. 4, 2021 at The Rig."
+            },
+            "publicationDate": "",
+            "publicationDateTimestamp": 0,
+            "lastModifiedDate": "",
+            "lastModifiedDateTimestamp": 0,
+            "expirationDate": "",
+            "resaleLink": "",
+            "isCover": false,
+            "orientation": "landscape"
+          }
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Avoiding a two-game skid heading into the postseason, Pearland rallied behind the hot hand of quarterback Jake Sock to stymie Dawson in a District 23-6A showdown Thursday night at Pearland Stadium.</p>",
+          "html2": "<p>Avoiding a two-game skid heading into the postseason, Pearland rallied behind the hot hand of quarterback Jake Sock to stymie Dawson in a District 23-6A showdown Thursday night at Pearland Stadium.</p>\n",
+          "html3": "<p>Avoiding a two-game skid heading into the postseason, Pearland rallied behind the hot hand of quarterback Jake Sock to stymie Dawson in a District 23-6A showdown Thursday night at Pearland Stadium.\n</p>"
+        }
+      },
+      {
+        "type": "ad",
+        "manual": false,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "code": "AP300"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Sock threw four touchdown passes, including 88- and 63-yard bombs to Aiden Glasper, to fuel the Oilers’ 25-23 win in the regular season finale for two playoff-bound teams.</p>",
+          "html2": "<p>Sock threw four touchdown passes, including 88- and 63-yard bombs to Aiden Glasper, to fuel the Oilers&rsquo; 25-23 win in the regular season finale for two playoff-bound teams.</p>\n",
+          "html3": "<p>Sock threw four touchdown passes, including 88- and 63-yard bombs to Aiden Glasper, to fuel the Oilers' 25-23 win in the regular season finale for two playoff-bound teams.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>The outcome resulted in both teams finishing the regular season with 7-3 records.</p>",
+          "html2": "<p>The outcome resulted in both teams finishing the regular season with 7-3 records.</p>\n",
+          "html3": "<p>The outcome resulted in both teams finishing the regular season with 7-3 records.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Pearland ended district play with a 6-1 record while Dawson settled for a 5-2 mark.</p>",
+          "html2": "<p>Pearland ended district play with a 6-1 record while Dawson settled for a 5-2 mark.</p>\n",
+          "html3": "<p>Pearland ended district play with a 6-1 record while Dawson settled for a 5-2 mark.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>The Oilers will enter the Class 6A Division I playoffs next week as a No. 1 seed in Division I and will play Clear Springs in bi-district.</p>",
+          "html2": "<p>The Oilers will enter the Class 6A Division I playoffs next week as a No. 1 seed in Division I and will play Clear Springs in bi-district.</p>\n",
+          "html3": "<p>The Oilers will enter the Class 6A Division I playoffs next week as a No. 1 seed in Division I and will play Clear Springs in bi-district.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>If Alief Taylor beats Alvin Friday night, Dawson will be a No. 2 seed in Division II and will play Clear Falls in bi-district.</p>",
+          "html2": "<p>If Alief Taylor beats Alvin Friday night, Dawson will be a No. 2 seed in Division II and will play Clear Falls in bi-district.</p>\n",
+          "html3": "<p>If Alief Taylor beats Alvin Friday night, Dawson will be a No. 2 seed in Division II and will play Clear Falls in bi-district.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>If Alvin wins the game, Dawson will be the No. 2 seed in Division I and will play Dickinson in bi-district.</p>",
+          "html2": "<p>If Alvin wins the game, Dawson will be the No. 2 seed in Division I and will play Dickinson in bi-district.</p>\n",
+          "html3": "<p>If Alvin wins the game, Dawson will be the No. 2 seed in Division I and will play Dickinson in bi-district.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>In Thursday’s rivalry matchup, Carter Brown’s 33-yard field goal with 6:23 left in the opening quarter gave Dawson a 3-0 lead.</p>",
+          "html2": "<p>In Thursday&rsquo;s rivalry matchup, Carter Brown&rsquo;s 33-yard field goal with 6:23 left in the opening quarter gave Dawson a 3-0 lead.</p>\n",
+          "html3": "<p>In Thursday's rivalry matchup, Carter Brown's 33-yard field goal with 6:23 left in the opening quarter gave Dawson a 3-0 lead.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>The Eagles opened a 10-0 edge with 3:29 showing in the opening period when quarterback Colin Johnson connected with Ryan Guillo on a 25-yard touchdown pass.</p>",
+          "html2": "<p>The Eagles opened a 10-0 edge with 3:29 showing in the opening period when quarterback Colin Johnson connected with Ryan Guillo on a 25-yard touchdown pass.</p>\n",
+          "html3": "<p>The Eagles opened a 10-0 edge with 3:29 showing in the opening period when quarterback Colin Johnson connected with Ryan Guillo on a 25-yard touchdown pass.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>After Pearland trimmed the lead to 10-6 on Sock’s 63-yard touchdown pass to Glasper, Brown drilled a 48-yard field goal for Dawson with 2:35 left in the half for a 13-6 score.</p>",
+          "html2": "<p>After Pearland trimmed the lead to 10-6 on Sock&rsquo;s 63-yard touchdown pass to Glasper, Brown drilled a 48-yard field goal for Dawson with 2:35 left in the half for a 13-6 score.</p>\n",
+          "html3": "<p>After Pearland trimmed the lead to 10-6 on Sock's 63-yard touchdown pass to Glasper, Brown drilled a 48-yard field goal for Dawson with 2:35 left in the half for a 13-6 score.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>The Oilers closed to 13-12 with 25 seconds left in the half on a Sock touchdown pass to Christian Pitts, but the two-point conversion attempt failed, leaving Dawson with the slim lead at intermission.</p>",
+          "html2": "<p>The Oilers closed to 13-12 with 25 seconds left in the half on a Sock touchdown pass to Christian Pitts, but the two-point conversion attempt failed, leaving Dawson with the slim lead at intermission.</p>\n",
+          "html3": "<p>The Oilers closed to 13-12 with 25 seconds left in the half on a Sock touchdown pass to Christian Pitts, but the two-point conversion attempt failed, leaving Dawson with the slim lead at intermission.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Pearland finally took the lead in the third quarter when Sock threw his third TD pass, this one a 33-yarder to Izeal Jones for an 18-13 Oiler advantage.</p>",
+          "html2": "<p>Pearland finally took the lead in the third quarter when Sock threw his third TD pass, this one a 33-yarder to Izeal Jones for an 18-13 Oiler advantage.</p>\n",
+          "html3": "<p>Pearland finally took the lead in the third quarter when Sock threw his third TD pass, this one a 33-yarder to Izeal Jones for an 18-13 Oiler advantage.\n</p>"
+        }
+      },
+      {
+        "type": "ad",
+        "manual": false,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "code": "BP300"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Brown nailed his third field goal, a 27-yarder, with 2:37 left in the third quarter to pull the Eagles within 18-16.</p>",
+          "html2": "<p>Brown nailed his third field goal, a 27-yarder, with 2:37 left in the third quarter to pull the Eagles within 18-16.</p>\n",
+          "html3": "<p>Brown nailed his third field goal, a 27-yarder, with 2:37 left in the third quarter to pull the Eagles within 18-16.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Sock’s fourth touchdown toss, the 88-yarder to Glasper, helped extend the Oiler lead to 25-16 with 8:55 left in the game.</p>",
+          "html2": "<p>Sock&rsquo;s fourth touchdown toss, the 88-yarder to Glasper, helped extend the Oiler lead to 25-16 with 8:55 left in the game.</p>\n",
+          "html3": "<p>Sock's fourth touchdown toss, the 88-yarder to Glasper, helped extend the Oiler lead to 25-16 with 8:55 left in the game.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<p>Dawson quarterback Colin Johnson scored on a 2-yard run with 1:19 left in the game to help bring the Eagles within 25-23, but the Oilers recovered the ensuing onside kick and consumed the remaining time.</p>",
+          "html2": "<p>Dawson quarterback Colin Johnson scored on a 2-yard run with 1:19 left in the game to help bring the Eagles within 25-23, but the Oilers recovered the ensuing onside kick and consumed the remaining time.</p>\n",
+          "html3": "<p>Dawson quarterback Colin Johnson scored on a 2-yard run with 1:19 left in the game to help bring the Eagles within 25-23, but the Oilers recovered the ensuing onside kick and consumed the remaining time.\n</p>"
+        }
+      },
+      {
+        "type": "text",
+        "manual": true,
+        "params": {
+          "mtime": 0,
+          "guid": "",
+          "layout": "",
+          "html1": "<em>\n                  <p> tdunnam@hcnonline.com</p>\n                </em>",
+          "html2": "<em>\n                  <p> tdunnam@hcnonline.com</p>\n                </em>\n",
+          "html3": "<em>\n                  \n<p> tdunnam@hcnonline.com\n</p>\n                </em>"
+        }
+      }
+    ],
+    "image": {},
+    "relatedStories": {
+      "header": "",
+      "ipid": "",
+      "items": []
+    },
+    "articleType": "",
+    "placeTaxonomies": [],
+    "placeAttributes": [],
+    "placeActivities": [],
+    "placeAddress1": "",
+    "placeAddress2": "",
+    "placeCity": "",
+    "placeState": "",
+    "placeCountry": "",
+    "placeNeighborhood": "",
+    "placeRegion": "",
+    "placeUrl": "",
+    "placeMenuurl": "",
+    "placeTicketsurl": "",
+    "placeGiftcardurl": "",
+    "placeReservationurl": "",
+    "placeFacebook": "",
+    "placeTwitter": "",
+    "placeInstagram": "",
+    "placeSeamless": "",
+    "placeGrubhub": "",
+    "placeRating": 0
+  }
+}

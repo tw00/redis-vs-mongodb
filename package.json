@@ -1,0 +1,17 @@
+{
+  "name": "performance",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node --trace-warnings benchmark.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "mongodb": "^4.2.2",
+    "msgpackr": "^1.5.1",
+    "redis": "^4.0.1"
+  }
+}
