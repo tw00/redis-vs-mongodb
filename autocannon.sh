@@ -9,5 +9,5 @@
 # -d/--duration SEC
 # The number of seconds to run the autocannon. default: 10.
 
-npx autocannon -c2 -p10 -d10 http://localhost:4005/mongo
-npx autocannon -c2 -p10 -d10 http://localhost:4005/redis-2
+npx autocannon -c10 -p10 -d60 http://localhost:4005/mongo
+npx autocannon -c10 -p10 -d60 http://localhost:4005/redis-2
