@@ -24,7 +24,7 @@ Object.keys(testClients).forEach((key) => {
   client.connect();
 
   app.get(`/${key}`, async (req, res) => {
-    const id = String(Math.round(Math.random() * 10000));
+    const id = String(Math.round(Math.random() * 9999));
     const data = await client.get(id);
 
     return respondJSON(res, 200, { id, data });
