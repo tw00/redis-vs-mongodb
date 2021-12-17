@@ -2,6 +2,7 @@ import express from "express";
 import mongoClient from "../clients/mongo.js";
 import redisClient from "../clients/redis.js";
 import dummyClient from "../clients/dummy.js";
+import rocksdbClient from "../clients/rocksdb.js";
 
 const app = express();
 const port = 4005;
@@ -10,6 +11,7 @@ const testClients = {
   mongo: mongoClient(),
   "redis-1": redisClient({ type: "stringify" }),
   "redis-2": redisClient({ type: "msgpackr" }),
+  rocksdb: rocksdbClient(),
   dummy: dummyClient(),
 };
 

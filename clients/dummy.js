@@ -1,5 +1,4 @@
 import { createClient } from "redis";
-import { performance } from "perf_hooks";
 
 export default () => {
   const inMemory = new Map();
@@ -7,17 +6,15 @@ export default () => {
   return {
     name: "InMemory",
     async connect() {
-      console.log("- connected");
+      console.log("Connected to Dummy");
     },
     async close() {
-      console.log("- close");
+      console.log("Close");
     },
     async insert(id, jsonData) {
-      // console.log("- insert", id);
       inMemory.set(id, jsonData);
     },
     async get(id) {
-      // console.log("- get", id);
       return inMemory.get(id);
     },
   };
